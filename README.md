@@ -1,5 +1,6 @@
 
-#ToDoList
+##ToDoList
+
 This is the project for getting familiar with Spring framework functionality. It allows user to authorize and use
 the simple bank functionalities such as depositing and withdrawing money, as well as transferring money to other accounts.
 * In order to run this project in your IDE, please follow these steps:
