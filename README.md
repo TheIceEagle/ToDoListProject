@@ -1,7 +1,6 @@
 ## ToDoList
 
-This is the project for getting familiar with Spring framework functionality. It allows user to authorize and use
-the simple bank functionalities such as depositing and withdrawing money, as well as transferring money to other accounts.
+This is the project for getting familiar with Restful architecture. It allows user to create tasks, prioritise them, create dates of their end, choose color of their taks, categorise them and minimal statistical analysis for user.
 * In order to run this project in your IDE, please follow these steps:
    1. Clone this repository to your local device
    2. Open the repo through your IDE (preferrably IntellijIDEA)
