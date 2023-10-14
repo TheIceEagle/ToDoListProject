@@ -12,8 +12,4 @@ This is the project for getting familiar with Restful architecture. It allows us
       5. Install necessary dependencies if asked
    3. Hit the run button (green triangle)
 
-* Alternatively, you can run this project directly in your command line by getting to the project folder (ToDoList) 
-and running this command, however it only provides limited :
-```
- java -jar ToDoList.jar
-```
+
